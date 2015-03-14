@@ -1,0 +1,3 @@
+*.o
+hs-makeurl
+hs-makesecret
